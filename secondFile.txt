@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 1 update from git_1
 2 update from git_1
-=======
 1 update from git_2
 2 update from git_2
->>>>>>> git_2
 3
 4
 5
